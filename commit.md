@@ -1,1 +1,1 @@
-8 functions and methods found on 8/5/2019
+11 functions and methods found on 8/27/2019
